@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Visualising Lighthouse JSON files",
   "main": "index.js",
+  "repository": "https://github.com/busbyHub/lightvis",
   "scripts": {
     "test": "test",
     "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
@@ -12,6 +13,7 @@
   "devDependencies": {
     "eslint": "^7.14.0",
     "eslint-config-prettier": "^6.15.0",
+    "parcel-bundler": "^1.12.4",
     "prettier": "^2.2.1"
   }
 }
