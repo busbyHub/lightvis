@@ -1,0 +1,17 @@
+{
+  "name": "lightviz",
+  "version": "1.0.0",
+  "description": "Visualising Lighthouse JSON files",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
+  },
+  "author": "Dominic Busby",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-config-prettier": "^6.15.0",
+    "prettier": "^2.2.1"
+  }
+}
